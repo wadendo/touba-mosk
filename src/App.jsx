@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { WatchYoutube } from './WatchYoutube';
+import { WatchYoutube } from './youtube/WatchYoutube';
 import { Counter } from './Counter';
 import { MultipleStates } from './MultipleStates';
 import { LifecycleDemo } from './LifecycleDemo';
