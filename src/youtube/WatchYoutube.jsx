@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import YouTube from 'react-youtube';
 import './WatchYoutube.css';
-export function WatchYoutube() {
+export  const WatchYoutube = () => {
   const opts = {
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
